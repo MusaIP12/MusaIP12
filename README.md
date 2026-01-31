@@ -1,10 +1,14 @@
-# 👋 Hi, I’m **Mussa Phiri**
+# 👋 Hi, I’m Mussa — turning “we think” into “the data says”.
+
 
 ### 📊 Data Analytics • Machine Learning • Risk-Aware Decision Making
 
-I’m a **data-driven problem solver** with hands-on experience in **data analytics, predictive modelling, and end-to-end data pipelines**, focused on transforming complex data into **clear insights that support business and technology risk decisions**.
+I’m a Computer Science graduate passionate about using **data, machine learning, and automation** to support **risk assessment, decision-making, and operational efficiency**.
 
-My work sits at the intersection of **data science, analytics, and technology risk**, with practical projects spanning **customer churn prediction, credit risk scoring, forecasting, and interactive dashboards**.
+I’m a **data-driven problem solver** focused on building **analytics, machine learning solutions, dashboards, and automated data pipelines** that turn complex data into actionable insights.
+
+My work sits at the intersection of **data analytics, machine learning, and technology risk**, with practical projects in **credit risk scoring, fraud detection, customer churn prediction, forecasting, and interactive reporting dashboards**.
+
 
 ---
 
@@ -20,8 +24,7 @@ My work sits at the intersection of **data science, analytics, and technology ri
   Build, evaluate, and interpret machine learning models for **churn prediction, credit risk assessment, forecasting, and classification**.
 
 - 🔄 **Automated Data Pipelines**  
-  Develop end-to-end pipelines for data ingestion, transformation, scoring, and monitoring to enable continuous analytics.
-
+  Develop end-to-end pipelines for data ingestion, transformation, scoring, and monitoring to enable continuous analytics and reporting
 ---
 
 ## 🛠️ Tech Stack
@@ -32,13 +35,17 @@ My work sits at the intersection of **data science, analytics, and technology ri
 
 ## 💡 About Me
 
-I’m passionate about building **practical, data-driven solutions** that create measurable impact — from improving customer retention and credit decisioning to automating reporting workflows.
+I’m passionate about building practical, data-driven solutions that create measurable impact — from improving credit decisioning and fraud detection to automating reporting workflows and enhancing data-driven oversight.
 
-I enjoy working in collaborative environments, translating technical results into **actionable insights**, and continuously improving my skills across analytics, cloud, and machine learning.
+I also have a strong interest in cybersecurity and research, particularly in how evolving data and system behaviour can be analysed to improve risk awareness and detection capabilities.
 
+I enjoy collaborating with others, translating technical outputs into actionable insights, and continuously improving my skills across analytics, cloud, machine learning, and technology risk.
 ---
 
 ## 📫 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mussaphiri)
+
+📊 [Tableau Public](https://public.tableau.com/app/profile/mussa.phiri/vizzes)
+
 
