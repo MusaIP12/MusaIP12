@@ -25,43 +25,6 @@
 
 <br clear="right"/>
 
----
-
-## 🚀 What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-**🔐 Cybersecurity & Threat Detection**
-Network traffic analysis, intrusion detection, IDS rule development using Wireshark, Suricata, and Wazuh. I find anomalies before they become incidents.
-
-</td>
-<td width="50%">
-
-**⚠️ Technology Risk & IT Audit**
-Framework-driven risk assessments using NIST CSF, NIST RMF, MITRE ATT&CK, and OWASP Top 10. Translating technical findings into risk insights.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🤖 Machine Learning for Security**
-ML models for malware detection, anomaly identification, and behavioural analysis. Research focus on model robustness under real-world concept drift.
-
-</td>
-<td width="50%">
-
-**📊 Data Analytics & Visualisation**
-Python, SQL, Power BI, Tableau, and Streamlit to turn raw data into dashboards and evidence-based decisions for technical and non-technical audiences.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
@@ -98,37 +61,6 @@ Python, SQL, Power BI, Tableau, and Streamlit to turn raw data into dashboards a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### 🔐 [MQTT IoT Network Intrusion Detection](https://github.com/MusaIP12/)
-> Structured three-phase security assessment of an MQTT IoT environment — baseline analysis, attack analysis, and custom Suricata IDS rule development. Analysed 10M+ packets, identified 6 indicators of compromise, mapped to MITRE ATT&CK T1110.001.
-
-`Wireshark` `tshark` `Suricata` `MQTT` `MITRE ATT&CK` `Python` `IoT Security`
-
----
-
-### 🧪 [Android Malware Detection — ML Robustness Research](https://github.com/MusaIP12/)
-> MSc research investigating resilience of audio-feature-based malware detection models under concept drift. Explored online and batch retraining strategies to recover model performance under real-world distribution shift.
-
-`Python` `TensorFlow` `scikit-learn` `Malware Detection` `Concept Drift` `ML`
-
----
-
-### 💳 [Credit Card Fraud Detection](https://github.com/MusaIP12/)
-> XGBoost fraud detection model achieving PR-AUC of 0.94. Applied threshold tuning, cost-aware decision policies, and SHAP-based interpretation — reducing total decision cost by ~35%.
-
-`Python` `XGBoost` `SHAP` `Azure` `Imbalanced Classification`
-
----
-
-### 📊 [Automated Credit Risk Scoring Pipeline](https://github.com/MusaIP12/)
-> End-to-end Python pipeline to ingest, score, and store 30,000+ credit records, integrated with Power BI dashboards for portfolio monitoring and risk trend analysis.
-
-`Python` `Power BI` `SQL` `Risk Scoring` `Data Pipeline`
-
----
 
 ## 🏅 Certifications
 
