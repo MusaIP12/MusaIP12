@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Mussa — cybersecurity analyst and data enthusiast who finds the signal in the noise.
+## 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hey, I'm Mussa
+**Cybersecurity analyst and data enthusiast who finds the signal in the noise.**
 
 ## 🔐 Cybersecurity • Technology Risk • Data Analytics • Machine Learning
 
