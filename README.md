@@ -1,51 +1,61 @@
-# 👋 Hi, I’m Mussa — turning “we think” into “the data says”.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Mussa — cybersecurity analyst and data enthusiast who finds the signal in the noise.
 
+## 🔐 Cybersecurity • Technology Risk • Data Analytics • Machine Learning
 
-### 📊 Data Analytics • Machine Learning • Risk-Aware Decision Making
+I’m a Computer Science graduate focused on **Cybersecurity, Technology Risk, and Data Analytics**, using a combination of **security tooling, machine learning, and data analysis** to understand system behaviour, detect anomalies, and support risk-based decision-making.
 
-I’m a Computer Science graduate passionate about using **data, machine learning, and automation** to support **risk assessment, decision-making, and operational efficiency**.
+My work is centred on **Cybersecurity analysis, IT risk understanding, and data-driven investigation of system and network behaviour**, with additional strength in **Machine Learning and predictive analytics**.
 
-I’m a **data-driven problem solver** focused on building **analytics, machine learning solutions, dashboards, and automated data pipelines** that turn complex data into actionable insights.
-
-My work sits at the intersection of **data analytics, machine learning, and technology risk**, with practical projects in **credit risk scoring, fraud detection, customer churn prediction, forecasting, and interactive reporting dashboards**.
-
+I am particularly interested in how **cybersecurity controls, monitoring systems, and data analytics** can be used to improve visibility, detect threats, and strengthen organisational resilience.
 
 ---
 
 ## 🚀 What I Do Best
 
-- 📊 **Data Analysis & Business Insights**  
-  Collect, clean, and analyse data using Python and SQL to uncover trends and support strategic decision-making.
+- 🔐 **Cybersecurity Analysis & Threat Detection**  
+  Conduct cybersecurity-focused analysis of network traffic, system logs, and application behaviour using tools such as Wireshark, Suricata, and Wazuh to identify anomalies, intrusion attempts, and security risks.
 
-- 📈 **Dashboards & Reporting**  
-  Design interactive dashboards using **Power BI, Tableau, and Streamlit** to communicate insights clearly to technical and non-technical stakeholders.
+- 🔐 **Cybersecurity & Risk-Focused Investigation**  
+  Apply cybersecurity frameworks such as **OWASP Top 10, MITRE ATT&CK, and NIST** to map system behaviour to potential vulnerabilities, attack patterns, and control weaknesses.
 
-- 🤖 **Predictive Modelling**  
-  Build, evaluate, and interpret machine learning models for **churn prediction, credit risk assessment, forecasting, and classification**.
+- 🔐 **Cybersecurity Monitoring & Incident Analysis**  
+  Analyse security events and logs to investigate suspicious activity, assess system behaviour, and document findings in structured, report-based formats.
 
-- 🔄 **Automated Data Pipelines**  
-  Develop end-to-end pipelines for data ingestion, transformation, scoring, and monitoring to enable continuous analytics and reporting
+- 📊 **Data Analytics for Security Insights**  
+  Use Python and SQL to analyse datasets and extract meaningful patterns that support cybersecurity investigation and risk interpretation.
+
+- 🤖 **Machine Learning for Pattern Recognition & Prediction**  
+  Build machine learning models for classification and prediction tasks, with applications in risk detection, anomaly identification, and behavioural analysis.
+
+- 📈 **Security & Data Visualisation**  
+  Develop dashboards and reporting tools using Power BI, Tableau, and Streamlit to communicate cybersecurity and data insights clearly to technical and non-technical stakeholders.
+
 ---
 
 ## 🛠️ Tech Stack
 
-`Python` · `SQL` · `pandas` · `NumPy` · `scikit-learn` · `Power BI` · `Tableau` · `Excel` · `Streamlit` · `TensorFlow` · `Git` · `Azure`
+`Python` · `SQL` · `Wireshark` · `Suricata` · `Wazuh` · `tshark` · `tcpdump` · `pandas` · `NumPy` · `scikit-learn` · `Power BI` · `Tableau` · `Streamlit` · `TensorFlow` · `Git` · `AWS`
 
 ---
 
 ## 💡 About Me
 
-I’m passionate about building practical, data-driven solutions that create measurable impact — from improving credit decisioning and fraud detection to automating reporting workflows and enhancing data-driven oversight.
+I am passionate about **Cybersecurity and Technology Risk analysis**, particularly in understanding how systems behave under normal and adversarial conditions.
 
-I also have a strong interest in cybersecurity and research, particularly in how evolving data and system behaviour can be analysed to improve risk awareness and detection capabilities.
+I have practical experience in:
+- Cybersecurity monitoring and intrusion detection using SIEM and IDS tools  
+- Network traffic and protocol analysis (Wireshark, tcpdump, Suricata)  
+- Security framework mapping (OWASP, MITRE ATT&CK, NIST)  
+- Data analysis and machine learning for pattern recognition and prediction  
+- Translating technical findings into structured cybersecurity and risk reports  
 
-I enjoy collaborating with others, translating technical outputs into actionable insights, and continuously improving my skills across analytics, cloud, machine learning, and technology risk.
+Alongside Cybersecurity, I also work with **Data Analytics and Machine Learning**, which I use to enhance security analysis, identify anomalies, and support evidence-based decision-making.
+
+My long-term focus is on **Cybersecurity, Technology Risk, IT Audit, and Security Analytics**, where data and security converge to improve organisational resilience.
+
 ---
 
 ## 📫 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mussaphiri)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/mussaphiri)  
 📊 [Tableau Public](https://public.tableau.com/app/profile/mussa.phiri/vizzes)
-
-
