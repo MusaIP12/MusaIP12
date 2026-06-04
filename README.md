@@ -71,15 +71,6 @@
 | ☁️ AWS Academy Cloud Foundations | Amazon Web Services | ✅ Completed |
 | 🔧 IBM Data Engineering Essentials | IBM / Coursera | ✅ Completed |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mussa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaIP12&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaIP12&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
