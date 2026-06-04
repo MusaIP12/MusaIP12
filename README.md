@@ -1,35 +1,64 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hey, I'm Mussa
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/> **Hey, I'm Mussa**
+
 **Cybersecurity analyst and data enthusiast who finds the signal in the noise.**
 
-## 🔐 Cybersecurity • Technology Risk • Data Analytics • Machine Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mussaphiri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MusaIP12/)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mussa.phiri/vizzes)
 
-I’m a Computer Science graduate focused on **Cybersecurity, Technology Risk, and Data Analytics**, using a combination of **security tooling, machine learning, and data analysis** to understand system behaviour, detect anomalies, and support risk-based decision-making.
-
-My work is centred on **Cybersecurity analysis, IT risk understanding, and data-driven investigation of system and network behaviour**, with additional strength in **Machine Learning and predictive analytics**.
-
-I am particularly interested in how **cybersecurity controls, monitoring systems, and data analytics** can be used to improve visibility, detect threats, and strengthen organisational resilience.
+</div>
 
 ---
 
-## 🚀 What I Do Best
+<img align="right" src="https://cdn.jsdelivr.net/gh/Anmol-Baranwal/Cool-GIFs-For-GitHub@main/data/hyperkitty.gif" width="180px"/>
 
-- 🔐 **Cybersecurity Analysis & Threat Detection**  
-  Conduct cybersecurity-focused analysis of network traffic, system logs, and application behaviour using tools such as Wireshark, Suricata, and Wazuh to identify anomalies, intrusion attempts, and security risks.
+### 🔐 Who Am I?
 
-- 🔐 **Cybersecurity & Risk-Focused Investigation**  
-  Apply cybersecurity frameworks such as **OWASP Top 10, MITRE ATT&CK, and NIST** to map system behaviour to potential vulnerabilities, attack patterns, and control weaknesses.
+- 🎓 **MSc Computer Science** graduate — *Distinction*
+- 🛡️ Passionate about **Cybersecurity, Technology Risk & IT Audit**
+- 🔍 I analyse networks, logs, and datasets to uncover threats and risk
+- 🤖 ML researcher — malware detection, concept drift, audio features
+- 📊 Data analyst — from raw logs to actionable dashboards
+- 🌍 Based in **Durban, South Africa**
 
-- 🔐 **Cybersecurity Monitoring & Incident Analysis**  
-  Analyse security events and logs to investigate suspicious activity, assess system behaviour, and document findings in structured, report-based formats.
+<br clear="right"/>
 
-- 📊 **Data Analytics for Security Insights**  
-  Use Python and SQL to analyse datasets and extract meaningful patterns that support cybersecurity investigation and risk interpretation.
+---
 
-- 🤖 **Machine Learning for Pattern Recognition & Prediction**  
-  Build machine learning models for classification and prediction tasks, with applications in risk detection, anomaly identification, and behavioural analysis.
+## 🚀 What I Do
 
-- 📈 **Security & Data Visualisation**  
-  Develop dashboards and reporting tools using Power BI, Tableau, and Streamlit to communicate cybersecurity and data insights clearly to technical and non-technical stakeholders.
+<table>
+<tr>
+<td width="50%">
+
+**🔐 Cybersecurity & Threat Detection**
+Network traffic analysis, intrusion detection, IDS rule development using Wireshark, Suricata, and Wazuh. I find anomalies before they become incidents.
+
+</td>
+<td width="50%">
+
+**⚠️ Technology Risk & IT Audit**
+Framework-driven risk assessments using NIST CSF, NIST RMF, MITRE ATT&CK, and OWASP Top 10. Translating technical findings into risk insights.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 Machine Learning for Security**
+ML models for malware detection, anomaly identification, and behavioural analysis. Research focus on model robustness under real-world concept drift.
+
+</td>
+<td width="50%">
+
+**📊 Data Analytics & Visualisation**
+Python, SQL, Power BI, Tableau, and Streamlit to turn raw data into dashboards and evidence-based decisions for technical and non-technical audiences.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +72,14 @@ I am particularly interested in how **cybersecurity controls, monitoring systems
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-005571?style=for-the-badge&logo=linux&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-444444?style=for-the-badge&logo=linux&logoColor=white)
+![tshark](https://img.shields.io/badge/tshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🔎 Frameworks & Standards
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C41230?style=for-the-badge&logo=mitre&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_CSF%2FRMF-003087?style=for-the-badge&logo=nist&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![CVSS](https://img.shields.io/badge/CVSS-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -51,35 +87,83 @@ I am particularly interested in how **cybersecurity controls, monitoring systems
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 📈 Visualisation
+### 📈 Visualisation & Reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-
-## 💡 About Me
-
-I am passionate about **Cybersecurity and Technology Risk analysis**, particularly in understanding how systems behave under normal and adversarial conditions.
-
-I have practical experience in:
-- Cybersecurity monitoring and intrusion detection using SIEM and IDS tools  
-- Network traffic and protocol analysis (Wireshark, tcpdump, Suricata)  
-- Security framework mapping (OWASP, MITRE ATT&CK, NIST)  
-- Data analysis and machine learning for pattern recognition and prediction  
-- Translating technical findings into structured cybersecurity and risk reports  
-
-Alongside Cybersecurity, I also work with **Data Analytics and Machine Learning**, which I use to enhance security analysis, identify anomalies, and support evidence-based decision-making.
-
-My long-term focus is on **Cybersecurity, Technology Risk, IT Audit, and Security Analytics**, where data and security converge to improve organisational resilience.
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect
+## 📌 Featured Projects
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mussaphiri)  
-📊 [Tableau Public](https://public.tableau.com/app/profile/mussa.phiri/vizzes)
+### 🔐 [MQTT IoT Network Intrusion Detection](https://github.com/MusaIP12/)
+> Structured three-phase security assessment of an MQTT IoT environment — baseline analysis, attack analysis, and custom Suricata IDS rule development. Analysed 10M+ packets, identified 6 indicators of compromise, mapped to MITRE ATT&CK T1110.001.
+
+`Wireshark` `tshark` `Suricata` `MQTT` `MITRE ATT&CK` `Python` `IoT Security`
+
+---
+
+### 🧪 [Android Malware Detection — ML Robustness Research](https://github.com/MusaIP12/)
+> MSc research investigating resilience of audio-feature-based malware detection models under concept drift. Explored online and batch retraining strategies to recover model performance under real-world distribution shift.
+
+`Python` `TensorFlow` `scikit-learn` `Malware Detection` `Concept Drift` `ML`
+
+---
+
+### 💳 [Credit Card Fraud Detection](https://github.com/MusaIP12/)
+> XGBoost fraud detection model achieving PR-AUC of 0.94. Applied threshold tuning, cost-aware decision policies, and SHAP-based interpretation — reducing total decision cost by ~35%.
+
+`Python` `XGBoost` `SHAP` `Azure` `Imbalanced Classification`
+
+---
+
+### 📊 [Automated Credit Risk Scoring Pipeline](https://github.com/MusaIP12/)
+> End-to-end Python pipeline to ingest, score, and store 30,000+ credit records, integrated with Power BI dashboards for portfolio monitoring and risk trend analysis.
+
+`Python` `Power BI` `SQL` `Risk Scoring` `Data Pipeline`
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Status |
+|---|---|---|
+| 🔐 Google Cybersecurity Professional Certificate V2 | Google / Coursera | ✅ Completed |
+| 🌐 Cyber Threat Management | Cisco Networking Academy | 🔄 In Progress |
+| ☁️ AWS Academy Cloud Foundations | Amazon Web Services | ✅ Completed |
+| 🔧 IBM Data Engineering Essentials | IBM / Coursera | ✅ Completed |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mussa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusaIP12&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusaIP12&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mussaphiri/)
+[![Email](https://img.shields.io/badge/Email-hiljosef@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiljosef@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualisations-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mussa.phiri/vizzes)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MusaIP12&style=for-the-badge&color=1679A7" alt="Profile Views"/>
+</div>
