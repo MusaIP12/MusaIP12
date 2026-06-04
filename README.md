@@ -17,11 +17,10 @@
 ### 🔐 Who Am I?
 
 - 🎓 **MSc Computer Science** graduate — *Distinction*
-- 🛡️ Passionate about **Cybersecurity, Technology Risk & IT Audit**
+- 🛡️ Passionate about **Cybersecurity, Technology Risk & IT Audit, Machine Learning, Data Science**
 - 🔍 I analyse networks, logs, and datasets to uncover threats and risk
 - 🤖 ML researcher — malware detection, concept drift, audio features
-- 📊 Data analyst — from raw logs to actionable dashboards
-- 🌍 Based in **Durban, South Africa**
+
 
 <br clear="right"/>
 
